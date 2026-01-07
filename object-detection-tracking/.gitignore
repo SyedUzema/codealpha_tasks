@@ -1,0 +1,37 @@
+# Virtual Environments (Python)
+**/venv/
+**/venv311/
+**/env/
+**/.venv/
+
+# Node modules (JavaScript)
+**/node_modules/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Model weights
+**/*.pt
+**/*.pth
+**/*.onnx
+**/*.weights
+**/*.h5
+
+# Large data files
+**/dataset/
+**/datasets/
+
+# Output files
+**/*.mp4
+**/*.avi
+
+# IDE
+**/.vscode/
+**/.idea/
+**/*.swp
+
+# OS
+.DS_Store
+Thumbs.db

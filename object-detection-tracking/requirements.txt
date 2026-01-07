@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.220
+deep-sort-realtime==1.3.2
+numpy==1.24.3
+scipy==1.11.4
+torch==2.0.1
+torchvision==0.15.2
